@@ -6,3 +6,42 @@ We can execute JS code without a browesr also using the node.js and deno.js is a
 
 Basically node.js contains an environment which is suitable to run JS code.
 But in node.js there are no concepts related DOM beacause it needs the browser also for DOM manipulation. 
+
+
+
+
+Chapter 2 - Variables and constants and Datatypes
+
+Developing app is the main goal od developer and developer should make it.
+
+We have to build a roadmap in mind or on the paper or anywhere else for how should our application works (procedure step by step).
+
+It makes easy in the development of the app later.
+
+
+
+
+
+Now ,
+
+there are three types of Variables
+ 
+ Var, const, let 
+
+ Var  XXXXXXXXXXXXXXXXXXX => Do not use
+
+const:
+
+const accountId = 1432234;
+//If once initialized then value cannot be changed. 
+//Block Scope
+
+
+
+let: 
+
+let accountEmail = "samk@gmail.com";
+//If once initialized then value can be changed (Changable). 
+//Block Scope
+
+
