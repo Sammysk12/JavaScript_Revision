@@ -1,0 +1,8 @@
+Chapter 1 - Setting up JS and Hello World
+
+Browser contains the JavaScript Engine to run JS code
+
+We can execute JS code without a browesr also using the node.js and deno.js is also like node.js 
+
+Basically node.js contains an environment which is suitable to run JS code.
+But in node.js there are no concepts related DOM beacause it needs the browser also for DOM manipulation. 
